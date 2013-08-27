@@ -53,5 +53,14 @@ namespace WinMXWindowApi
         {
             WinMX.SendTextToChatRoom(ChannelName, Text);
         }
+
+        /// <summary>
+        /// Gets the window handle for the main WinMX window.
+        /// </summary>
+        /// <returns></returns>
+        public static IntPtr GetWinMXWindowHandle()
+        {
+            return WinMX.GetWinMXWindow();
+        }
     }
 }

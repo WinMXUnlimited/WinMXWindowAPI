@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WinMXWindowApi")]
 [assembly: AssemblyDescription("A small library for interacting with WinMX through the Windows API.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("WinMxUnlimited")]
+[assembly: AssemblyCompany("WinMXUnlimited")]
 [assembly: AssemblyProduct("WinMXWindowApi")]
 [assembly: AssemblyCopyright("Copyright © 2013 WinMXUnlimited")]
 [assembly: AssemblyTrademark("")]
